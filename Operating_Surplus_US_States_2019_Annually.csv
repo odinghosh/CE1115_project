@@ -1,0 +1,61 @@
+GeoFips,GeoName,2019
+0,United States,8571191
+1000,Alabama,88069.6
+2000,Alaska,20791.5
+4000,Arizona,142217.3
+5000,Arkansas,48087.1
+6000,California,1326813.4
+8000,Colorado,150803.8
+9000,Connecticut,120225.3
+10000,Delaware,38119.1
+11000,District of Columbia,39798.2
+12000,Florida,411739.3
+13000,Georgia,259737.5
+15000,Hawaii,36290.3
+16000,Idaho,34315.1
+17000,Illinois,333116
+18000,Indiana,159789.5
+19000,Iowa,85508
+20000,Kansas,73918.1
+21000,Kentucky,79117.4
+22000,Louisiana,108114
+23000,Maine,22430
+24000,Maryland,169490.6
+25000,Massachusetts,224949.6
+26000,Michigan,200012.8
+27000,Minnesota,140906.7
+28000,Mississippi,42708.4
+29000,Missouri,118476.6
+30000,Montana,21879.3
+31000,Nebraska,57418.3
+32000,Nevada,67045.1
+33000,New Hampshire,31709.9
+34000,New Jersey,225998.3
+35000,New Mexico,44009
+36000,New York,743118.2
+37000,North Carolina,240086.8
+38000,North Dakota,23567.3
+39000,Ohio,274630.5
+40000,Oklahoma,84178.2
+41000,Oregon,101569.5
+42000,Pennsylvania,314351.6
+44000,Rhode Island,21177.4
+45000,South Carolina,93143
+46000,South Dakota,26191.6
+47000,Tennessee,150884.5
+48000,Texas,762538.1
+49000,Utah,78826.4
+50000,Vermont,10729.1
+51000,Virginia,201264.2
+53000,Washington,252355
+54000,West Virginia,30193.4
+55000,Wisconsin,129815.4
+56000,Wyoming,17410.8
+91000,New England,431221.3
+92000,Mideast,1530876
+93000,Great Lakes,1097364.2
+94000,Plains,525986.6
+95000,Southeast,1753145.3
+96000,Southwest,1032942.6
+97000,Rocky Mountain,303235.4
+98000,Far West,1804864.7
