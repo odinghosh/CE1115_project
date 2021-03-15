@@ -1,0 +1,10 @@
+Mean Temp : https://www.ncdc.noaa.gov/cag/statewide/mapping/110/tavg/202102/12/value
+(Mean Temp by state for Feb 2020 - Feb 2021)
+
+Ethnicity : https://www.kff.org/other/state-indicator/distribution-by-raceethnicity/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+(Index = (race prob)^2 + (race prob)^2 +...+(race prob)^2 (Simpson's Index))
+(Link: https://diversity.missouristate.edu/DiversityIndex.htm)
+
+America Demographic: https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
+GDP : https://www.bea.gov/data/gdp/gross-domestic-product
